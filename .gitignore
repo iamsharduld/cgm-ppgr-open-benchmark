@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+*.pyc
+data/
+scratch/
+.venv/
+venv/
+paper/manuscript.html
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.toc
+paper/*.bbl
+paper/*.blg
+paper/*.synctex.gz
+paper/*.fls
+paper/*.fdb_latexmk

@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this benchmark or code, please cite it as below."
+title: >-
+  How predictable is a meal's glucose response in people without diabetes?
+  A reproducible open benchmark with honest baselines and cross-cohort evaluation
+type: software
+authors:
+  - family-names: Deshpande
+    given-names: Shardul
+    email: sdeshpan@ucsd.edu
+    affiliation: Independent Researcher
+year: 2026
+license: MIT
+repository-code: "https://github.com/iamsharduld/cgm-ppgr-open-benchmark"
+url: "https://github.com/iamsharduld/cgm-ppgr-open-benchmark"
+keywords:
+  - continuous glucose monitoring
+  - postprandial glycemic response
+  - benchmark
+  - machine learning
+  - reproducibility
+  - personalized nutrition
+abstract: >-
+  A pre-registered, reproducible, multi-cohort benchmark for predicting the
+  postprandial glucose response (2-hour iAUC) to a meal in non-diabetic adults,
+  with an honest baseline panel, cross-cohort transfer, a feature ablation, and
+  an empirical dual-CGM noise ceiling, built on the public CGMacros and BIG
+  IDEAs Lab datasets.
